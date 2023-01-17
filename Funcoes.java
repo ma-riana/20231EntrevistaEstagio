@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 /**
- * Classe desinada às funções utilizadas na classe Main
+ * Classe destinada às funções utilizadas na classe Main
  * @author Mariana Steffen
  */
 
